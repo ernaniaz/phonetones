@@ -22,4 +22,4 @@ This will play an USA busy tone when mouse over element with ID busy on the page
 
 ## License
 
-GPL v3 License.
+MIT License.
